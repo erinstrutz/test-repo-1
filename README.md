@@ -1,6 +1,8 @@
 test-repo
 =========
 
+#Week 2 information is helpful for forking, pushing, and pulling
+
 ## Week 1 Meeting (June 4)
 
 We went through three examples: 
